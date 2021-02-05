@@ -1,4 +1,4 @@
-[![chris davidson header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light-holiday.png)](https://waylonwalker.com)
+[![chris davidson header](Images/apple-coffee-shop-computer-7107.jpg]
 
 ## Welcome to My Profile & Repository!
 I am Christopher Davidson, Ph.D. — but everyone calls me Chris — and welcome to my GitHub profile and respositories.
