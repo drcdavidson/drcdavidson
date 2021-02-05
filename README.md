@@ -1,4 +1,4 @@
-[![chris davidson header](Images/apple-coffee-shop-computer-7107.jpg]
+# [![chris davidson header](https://github.com/drcdavidson/drcdavidson/blob/main/Images/apple-coffee-shop-computer-7107.jpg]
 
 ## Welcome to My Profile & Repository!
 I am Christopher Davidson, Ph.D. — but everyone calls me Chris — and welcome to my GitHub profile and respositories.
