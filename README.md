@@ -1,5 +1,5 @@
 ## Welcome to My Repository!
-I am Christopher Davidson, Ph.D.--but everyone calls me Chris--and welcome to my GitHub. 
+I am Christopher Davidson, Ph.D. - but everyone calls me Chris - and welcome to my GitHub. 
 <!--
 **drcdavidson/drcdavidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
