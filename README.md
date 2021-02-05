@@ -1,6 +1,3 @@
-# [![chris davidson header]
-
-
 ## Welcome to My Profile & Repository!
 I am Christopher Davidson, Ph.D. — but everyone calls me Chris — and welcome to my GitHub profile and respositories.
 
