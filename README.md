@@ -1,5 +1,7 @@
 ## Welcome to My Profile & Repository!
-I am Christopher Davidson, Ph.D. — but everyone calls me Chris — and welcome to my GitHub profile and respositories.
+I am a researcher with 15+ years of experience in higher eduation who is passionate about using data to solve problems related to postsecondary education, other public policy issues, and evaluation of evidence-based practices. 
+
+
 
 
 <!--
