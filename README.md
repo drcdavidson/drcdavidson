@@ -3,7 +3,7 @@
 ## Welcome to My Profile & Repository!
 I am a researcher with 15+ years of experience in higher eduation who is passionate about using data to solve problems related to postsecondary education, public policy issues, proposal writing, and evaluation. 
 
-
+---
 
 
 <!--
