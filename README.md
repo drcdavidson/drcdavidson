@@ -5,11 +5,11 @@
 
 I am a researcher with 15+ years of experience in higher eduation who is passionate about using data to solve problems related to:
 
-<li>:classical_building: Postsecondary Education</li> 
-<li>:ballot_box: Public Policy</li>
-<li>:black_nib: Writing Proposals</li>
-<li>:mag:  Evaluation</li>
-<li>:computer: Research Methods</li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:classical_building: Postsecondary Education<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:ballot_box: Public Policy<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_nib: Writing Proposals<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mag:  Evaluation<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:computer: Research Methods<br>
 
 ---
 
