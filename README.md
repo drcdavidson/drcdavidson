@@ -1,4 +1,7 @@
-![Header](https://raw.githubusercontent.com/drcdavidson/drcdavidson/master/Images/ReadMeHeader.png "Header")
+[![header](https://raw.githubusercontent.com/drcdavidson/drcdavidson/master/Images/ReadMeHeader.png)](https://github.com/drcdavidson)
+
+<p>
+
 
 ## Welcome to My Profile & Repository of Projects! 
 <a href="https://www.linkedin.com/in/drchrisdavidson/"><img height="50" align='right' src="https://raw.githubusercontent.com/drcdavidson/drcdavidson/master/Images/LI-In-Bug.png"></a>
