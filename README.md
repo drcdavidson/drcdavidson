@@ -5,7 +5,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 
 ---
 
-This profile is a work in progress and is currently under construction. 🚧
+🚧 This profile is a work in progress and is currently under construction. 🚧
 
 
 
