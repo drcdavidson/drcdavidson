@@ -10,7 +10,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 
 ### Projects Include: 
   
-- #### [Movie Lens Project] (https://github.com/drcdavidson/movielens)
+- #### [Movie Lens Project](https://github.com/drcdavidson/movielens)
   This repository includes the R Scripts and R Markdown file for the first of two final projects for the HarvardX Data Science: Capstone towards the Professional Certificate in Data Sciences via EdX.
   
 - ##### Graduation Rates Project
