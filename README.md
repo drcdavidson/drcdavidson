@@ -9,16 +9,19 @@
 I am a researcher with 15+ years of experience in higher eduation who is passionate about using data to solve problems. My areas of interest include :classical_building: Postsecondary Education, :ballot_box: Public Policy, :scroll: Law, and I am skilled at :black_nib: Writing Proposals,:mag: Evaluation, and :computer: Research Methods.
 
 ### Technical Skills & Software Proficiencies
-| Skills | Software |
-| --- | --- |
-| Quantitative Methods | R & R Studio |
-| Data Sciences | SQL | 
-| Data Visualizations | Tableau | 
-| Qualitative Methods | NVivo |
-| Mixed Methods | 
-| Project Management | Microsoft Teams & Asana |
-| Web Design & CMS | WordPress, SquareSpace, & HTML |
-| Survey Research | Qualtrics | 
+| Skills | Software | Proficiency |
+| --- | --- | --- |
+| Quantitative Methods | R Studio | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
+| Data Sciences |  R Studio | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
+| | Python | 	:white_circle:	:large_blue_circle: :white_circle:	:white_circle:  :white_circle:
+| | SQL | :white_circle:	:white_circle:  :large_blue_circle:   :white_circle:  :white_circle:
+| Survey Research | Qualtrics | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
+| Data Visualizations | Tableau | :white_circle:	:white_circle:	:white_circle:	 :large_blue_circle:  :white_circle: 
+| Qualitative Methods | Dedoose |:white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
+| Mixed Methods | Quant & Qual Softwares | :white_circle:	:white_circle:	:white_circle:  :white_circle:  :large_blue_circle: 
+| Project Management | Microsoft Teams & Asana | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle: |
+| Web Design & CMS | WordPress, SquareSpace, & HTML | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
+
   
 ### Projects 
   
