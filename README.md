@@ -1,4 +1,4 @@
-[![header](https://raw.githubusercontent.com/drcdavidson/drcdavidson/master/Images/Header.jfif)](https://github.com/drcdavidson)
+![](https://github.com/drcdavidson/drcdavidson/blob/main/Images/Header.jfif)
 <p>
 
 
