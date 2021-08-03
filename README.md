@@ -29,7 +29,3 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
   
 - #### [Graduation Rates Project](https://github.com/drcdavidson/gradrates)
   This repository includes the R Scripts and R Markdown file for the second of two final projects for the HarvardX Data Science: Capstone towards the Professional Certificate in Data Sciences via EdX.  
- 
-  
-__________________________________________  
-🚧 This profile is a work in progress and is currently under construction. 🚧
