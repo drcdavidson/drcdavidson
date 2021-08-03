@@ -12,7 +12,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 | Skills | Software | Proficiency |
 | --- | --- | --- |
 | Quantitative Methods | R Studio | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
-| Data Sciences |  R Studio | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
+| Data Science |  R Studio | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 | | Python | 	:white_circle:	:large_blue_circle: :white_circle:	:white_circle:  :white_circle:
 | | SQL | :white_circle:	:white_circle:  :large_blue_circle:   :white_circle:  :white_circle:
 | Survey Research | Qualtrics | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
