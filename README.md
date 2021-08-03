@@ -21,7 +21,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 | Mixed Methods | Quant & Qual Softwares | :white_circle:	:white_circle:	:white_circle:  :white_circle:  :large_blue_circle: 
 | Project Management | Microsoft Teams & Asana | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle: |
 | Web Design & CMS | WordPress, SquareSpace, & HTML | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
-
+| Learning Mangement Systems | Canvas & Blackboard | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
   
 ### Projects 
   
