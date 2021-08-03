@@ -12,7 +12,6 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 | Skills | Software |
 | --- | --- |
 | Quantitative Methods | R & R Studio |
-| | SPSS |
 | Data Sciences | SQL | 
 | Data Visualizations | Tableau | 
 | Qualitative Methods | NVivo |
