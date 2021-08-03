@@ -16,8 +16,9 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 | Data Visualizations | Tableau | 
 | Qualitative Methods | NVivo |
 | Mixed Methods | 
-| Project Management | Microsoft Teams |
- | | Asana |
+| Project Management | Microsoft Teams & Asana |
+| Web Design & CMS | WordPress, SquareSpace, & HTML |
+| Survey Research | Qualtrics | 
   
 ### Projects 
   
