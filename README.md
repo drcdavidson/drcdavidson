@@ -9,12 +9,18 @@
 I am a researcher with 15+ years of experience in higher eduation who is passionate about using data to solve problems. My areas of interest include :classical_building: Postsecondary Education, :ballot_box: Public Policy, :scroll: Law, and I am skilled at :black_nib: Writing Proposals,:mag: Evaluation, and :computer: Research Methods.
 
 ### Technical Skills & Software Proficiencies
-  -R & R Studio
-  -Tableau
-  -SQL
-  -SPSS
+| Skills | Software |
+| --- | --- |
+| Quantitative Methods | R & R Studio |
+| | SPSS |
+| Data Sciences | SQL | 
+| Data Visualizations | Tableau | 
+| Qualitative Methods | NVivo |
+| Mixed Methods | 
+| Project Management | Microsoft Teams |
+ | | Asana |
   
-### Projects Include: 
+### Projects 
   
 - #### [Movie Lens Project](https://github.com/drcdavidson/movielens)
   This repository includes the R Scripts and R Markdown file for the first of two final projects for the HarvardX Data Science: Capstone towards the Professional Certificate in Data Sciences via EdX.
