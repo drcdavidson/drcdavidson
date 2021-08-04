@@ -29,3 +29,6 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
   
 - #### [Graduation Rates Project](https://github.com/drcdavidson/gradrates)
   This repository includes the R Scripts and R Markdown file for the second of two final projects for the HarvardX Data Science: Capstone towards the Professional Certificate in Data Sciences via EdX.  
+  
+- #### [College Endowments Project](https://github.com/drcdavidson/college-endowments)
+  This exploratory project examines four-year college endowment growth as well as other variables that may correlate to growth from the Department of Education's IPEDS Data. 
