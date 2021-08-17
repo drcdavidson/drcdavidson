@@ -36,55 +36,39 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
   **Status: In Progress** :arrows_counterclockwise:
  
 ### Published Papers & Essays
-- #### [The Higher Education Funding Revolution: An Exploration of Statewide Community College “Free Tuition” Programs](https://drive.google.com/file/d/1-KMYS-52jZKiWgeTdX_GMpQcUO34wUSX/view?usp=sharing)
-  <details>
-  <summary>View Abstract</summary> 
-    
-    This article examines the current literature and state legislation of statewide free tuition promise programs. The purpose of this paper was to analyze state free community college programs, legislation, scholarly literature, and state websites to understand program structures, funding sources, and studenteligibility requirements. The following classifications of state programs emerged: community and technical college programs, workforce development programs, and programs for both 2- and 4-year degrees and certificates. Additionally, this article examines the similarities and differences between programs to inform future research and accompanying outcomes.<br />
-  </details>
+
+  - #### [The Higher Education Funding Revolution: An Exploration of Statewide Community College “Free Tuition” Programs](https://drive.google.com/file/d/1-KMYS-
+  Abstract: This article examines the current literature and state legislation of statewide free tuition promise programs. The purpose of this paper was to analyze state free community college programs, legislation, scholarly literature, and state websites to understand program structures, funding sources, and studenteligibility requirements. The following classifications of state programs emerged: community and technical college programs, workforce development programs, and programs for both 2- and 4-year degrees and certificates. Additionally, this article examines the similarities and differences between programs to inform future research and accompanying outcomes.
   
 - #### [From the Foxhole to the Ivory Tower Paper](https://drive.google.com/file/d/1-TCdrkeItsNauqMuKdNzVbnldVpDn0z0/view?usp=sharing)
-  <details>
-  <summary>Abstract</summary> 
-  More than 5,000,000 post-9/11 service members are expected to transition out of the military by 2020 due to a reduction in the size of the U.S. military and presence in Iraq and Afghanistan (American Council on Education, 2014). As these service members separate from the military many will choose to enter college. The purpose of this study was to explore the transition experiences of Post-9/11 student veterans from a military setting to college using Veteran Critical Theory to examine data collected from semi-structured interviews. The findings were presented as a composite narrative and add to and confirm a decade's worth of literature about the transition experiences of Post-9/11 student veterans. The findings also confirmed many of the tenets of Veteran Critical Theory (Phillips & Lincoln, 2017) especially related to the conflict between military, civilian, and academic cultures that disrupted student veterans' ability to adapt to their new role as civilian and student.
+  Abstract: More than 5,000,000 post-9/11 service members are expected to transition out of the military by 2020 due to a reduction in the size of the U.S. military and presence in Iraq and Afghanistan (American Council on Education, 2014). As these service members separate from the military many will choose to enter college. The purpose of this study was to explore the transition experiences of Post-9/11 student veterans from a military setting to college using Veteran Critical Theory to examine data collected from semi-structured interviews. The findings were presented as a composite narrative and add to and confirm a decade's worth of literature about the transition experiences of Post-9/11 student veterans. The findings also confirmed many of the tenets of Veteran Critical Theory (Phillips & Lincoln, 2017) especially related to the conflict between military, civilian, and academic cultures that disrupted student veterans' ability to adapt to their new role as civilian and student.
 
-  - #### [Public vs. Private Good: How Neoliberalism has Changed the Role of Higher Education and Created Issues of Access](https://drive.google.com/file/d/1-T3C7E9IuZJ8wMIU2N2-7cAxZLZDT5r2/view?usp=sharing)
-  <details>
-  <summary>Abstract</summary> 
+- #### [Public vs. Private Good: How Neoliberalism has Changed the Role of Higher Education and Created Issues of Access](https://drive.google.com/file/d/1-T3C7E9IuZJ8wMIU2N2-7cAxZLZDT5r2/view?usp=sharing)
   Essay begins on Page 3 of the book and discusses the history of higher education and the role neoliberalism has played on it's evolution. 
-  </details>
-   
+
 - #### [Computer Security Incidents](https://drive.google.com/file/d/1-fDnc230ojYafxCVGmLhF8HJMaVasiKD/view?usp=sharing)
-  <details>
-  <summary>Abstract</summary> 
-  Computer security incidents have increased over the past decade for both the public and private sectors, and institutions of higher education are not immune to these incidents. This article explores computer security incidents and threats for higher education campuses, discusses the implications for higher education institutions, and makes recommendations for steps that higher education officials can take to mitigate these threats and incidents.
- </details>
+  Abstract: Computer security incidents have increased over the past decade for both the public and private sectors, and institutions of higher education are not immune to these incidents. This article explores computer security incidents and threats for higher education campuses, discusses the implications for higher education institutions, and makes recommendations for steps that higher education officials can take to mitigate these threats and incidents.
   
 ### Grant Funded Research
 
 - #### [Virginia Veterans Demonstration Project](https://drive.google.com/file/d/1-rDyKp3fQjQlX6Gf_74lw2Tn69Yqx5ub/view?usp=sharing)
-  <details>
-  <summary>Project Description</summary> 
-  
-  From  July 2015 to August 2016, I served as a Project Associate & Graduated Research Associate at the Virginia Tech Institute of Policy and Governance while working on his doctoral degree. In colloboration with  StreamLines, LLC and other partners, he conducted research at the request of the Virginia Community College System - Workforce Development Services (VCCS-WDS), as part of the Virginia Veterans Demonstration Project funded by the U.S. Department of Labor. The Demonstration Project had four components intended to improve educational and employment opportunities for Virginia’s Transitioning Service Members (TSMs) and veterans. The asset mapping, best practices research and gap analysis were the key components of a formative evaluation study that provided research findings to support program and policy action recommendations for the Virginia Board of Workforce Development. In total there are seven (7) reports. 
-  </details>
-  
+  Abstract: From  July 2015 to August 2016, I served as a Project Associate & Graduated Research Associate at the Virginia Tech Institute of Policy and Governance while working on his doctoral degree. In colloboration with  StreamLines, LLC and other partners, he conducted research at the request of the Virginia Community College System - Workforce Development Services (VCCS-WDS), as part of the Virginia Veterans Demonstration Project funded by the U.S. Department of Labor. The Demonstration Project had four components intended to improve educational and employment opportunities for Virginia’s Transitioning Service Members (TSMs) and veterans. The asset mapping, best practices research and gap analysis were the key components of a formative evaluation study that provided research findings to support program and policy action recommendations for the Virginia Board of Workforce Development. In total there are seven (7) reports.   
   
 ### Reports 
 
 - #### [University Student Emergency Relief Grants: Benchmarking Report for Implementing a Micro-or Emergency Grant Program](https://drive.google.com/file/d/1-Bf_wPTroP8VV757Gc0u4tT08ci76pZP/view?usp=sharing)
-  <details>
-  <summary>Abstract</summary> 
-  On behalf of the University of Tennessee, Knoxville (UT), the Postsecondary Education Research Center (PERC) examined the use of micro- or emergency grants for students at aspirational and peer institutions. Additionally, PERC staff gathered information from programs at institutions with high Pell grant and high retention/graduation metrics across the United States. PERC staff reviewed information for 38 institutions and identified two program formats for microgrants or emergency funding for students: short-term or emergency loans and micro- or emergency grants. This report provides an overview of the two program formats, eligibility criteria, summary of current UT programs, and a recommendation and proposal for Smokey’s Grant.
-  </details>    
+  Abstract: On behalf of the University of Tennessee, Knoxville (UT), the Postsecondary Education Research Center (PERC) examined the use of micro- or emergency grants for students at aspirational and peer institutions. Additionally, PERC staff gathered information from programs at institutions with high Pell grant and high retention/graduation metrics across the United States. PERC staff reviewed information for 38 institutions and identified two program formats for microgrants or emergency funding for students: short-term or emergency loans and micro- or emergency grants. This report provides an overview of the two program formats, eligibility criteria, summary of current UT programs, and a recommendation and proposal for Smokey’s Grant.
     
-- ###[tnAchieves and Southwest Tennessee Community College’s Jenny and Randy Boyd Summer Scholars Institute](https://drive.google.com/file/d/1-J-cXScfbWsEEDWa5-Gm2TAOn4ASuR1j/view?usp=sharing)
-  <details>
-  <summary>Description</summary>
+- #### [tnAchieves and Southwest Tennessee Community College’s Jenny and Randy Boyd Summer Scholars Institute](https://drive.google.com/file/d/1-J-cXScfbWsEEDWa5-Gm2TAOn4ASuR1j/view?usp=sharing)
   In November 2017, I released a two-page Promising Practices on behalf of the Postsecondary Education Research Center (PERC) where I served as the Postdoctoral Research Associate. This Promising Practices publication highlighted the innaugural Jenny and Randy Boyd Summer Scholars Institute held Southwest Tennessee Community College in Memphis, Tennessee.
-  </details>    
-
-### Presentations 
-
+  
+### Presentations
+   
 - #### [From the Foxhole to the Ivory Tower Presentation](https://drive.google.com/file/d/1-a9POIsQKR4q7VHtk2hfOSUlFK0ju9a7/view?usp=sharing)
   Presentation given at the 2018 Association for the Study of Higher Education Annual Conference in Tampa, Florida. 
+ 
+- #### [Veterans Demonstration Project: Asset Mapping and Gap Analysis](https://drive.google.com/file/d/1BmhLHYdzVYT80uZsE-cwVMOg9Yt1MW2K/view?usp=sharing)
+  Presentation given to the Military Education Advisory Committee of the State Council for Higher Education of Virginia on June 20th, 2016.
+  
+- #### [Veteran Influx: Supporting Veterans in the Higher Education Pipeline](https://drive.google.com/file/d/1-tXyQZ8ZwTaxkDE90u2MQBM8AYj2JSmU/view?usp=sharing)
+  Presentation given at the 2016 Annual NASPA Conference in Indianapolis, Indiana. 
