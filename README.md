@@ -18,7 +18,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 | Qualitative Methods | Dedoose |:white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 | Mixed Methods | Quant & Qual Softwares | :white_circle:	:white_circle:	:white_circle:  :white_circle:  :large_blue_circle: 
 | Project Management | Microsoft Teams & Asana | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle: |
-| Web Design & CMS | WordPress, SquareSpace, & HTML | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
+| Web Design & CMS | WordPress, SquareSpace, & HTML | :white_circle:	:white_circle:	:white_circle:	:large_blue_circle: :white_circle:
 | Learning Management Systems | Canvas & Blackboard | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 
 ### Data Science Projects 
