@@ -20,7 +20,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 | Project Management | Microsoft Teams & Asana | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle: |
 | Web Design & CMS | WordPress, SquareSpace, & HTML | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 | Learning Management Systems | Canvas & Blackboard | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
-  
+
 ### Data Science Projects 
   
 - #### [Movie Lens Project](https://github.com/drcdavidson/movielens)
@@ -35,6 +35,9 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
   This exploratory project examines four-year college endowment growth as well as other variables that may correlate to growth from the Department of Education's IPEDS Data. <br />
 **Status: In Progress** :arrows_counterclockwise:
 
+<details>
+  <summary>Published Papers & Essays</summary>
+  
 ### Published Papers & Essays
  
 - #### [The Higher Education Funding Revolution: An Exploration of Statewide Community College “Free Tuition” Programs](https://drive.google.com/file/d/1-KMYS-52jZKiWgeTdX_GMpQcUO34wUSX/view?usp=sharing)
@@ -50,6 +53,11 @@ programs to inform future research and accompanying outcomes.
 - #### [Computer Security Incidents](https://drive.google.com/file/d/1-fDnc230ojYafxCVGmLhF8HJMaVasiKD/view?usp=sharing)
   Abstract: Computer security incidents have increased over the past decade for both the public and private sectors, and institutions of higher education are not immune to these incidents. This article explores computer security incidents and threats for higher education campuses, discusses the implications for higher education institutions, and makes recommendations for steps that higher education officials can take to mitigate these threats and incidents.
 
+</details>    
+  
+  
+  
+  
 ### Grant Funded Research
 
 - #### [Virginia Veterans Demonstration Project](https://drive.google.com/file/d/1-rDyKp3fQjQlX6Gf_74lw2Tn69Yqx5ub/view?usp=sharing)
