@@ -25,36 +25,41 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
   
 - #### [Movie Lens Project](https://github.com/drcdavidson/movielens)
   This repository includes the R Scripts and R Markdown file for the first of two final projects for the HarvardX Data Science: Capstone towards the Professional Certificate in Data Sciences via EdX. <br />
-**Status: Completed** :heavy_check_mark:
-
+  **Status: Completed** :heavy_check_mark:
+   
 - #### [Graduation Rates Project](https://github.com/drcdavidson/gradrates)
-  This repository includes the R Scripts and R Markdown file for the second of two final projects for the HarvardX Data Science: Capstone towards the Professional Certificate in Data Sciences via EdX.  <br />
-**Status: Completed** :heavy_check_mark:
-  
+   This repository includes the R Scripts and R Markdown file for the second of two final projects for the HarvardX Data Science: Capstone towards the Professional Certificate in Data Sciences via EdX.  <br />
+  **Status: Completed** :heavy_check_mark:
+   
 - #### [College Endowments Project](https://github.com/drcdavidson/college-endowments)
   This exploratory project examines four-year college endowment growth as well as other variables that may correlate to growth from the Department of Education's IPEDS Data. <br />
-**Status: In Progress** :arrows_counterclockwise:
-
-<details>
-  <summary>Published Papers & Essays</summary>
-  
+  **Status: In Progress** :arrows_counterclockwise:
+ 
 ### Published Papers & Essays
  
 - #### [The Higher Education Funding Revolution: An Exploration of Statewide Community College “Free Tuition” Programs](https://drive.google.com/file/d/1-KMYS-52jZKiWgeTdX_GMpQcUO34wUSX/view?usp=sharing)
-  Abstract: This article examines the current literature and state legislation of statewide free tuition promise programs. The purpose of this paper was to analyze state free community college programs, legislation, scholarly literature, and state websites to understand program structures, funding sources, and studenteligibility requirements. The following classifications of state programs emerged: community and technical college programs, workforce development programs, and programs for both 2- and 4-year degrees and certificates. Additionally, this article examines the similarities and differences between
-programs to inform future research and accompanying outcomes.
+  <details>
+  <summary>Abstract</summary> 
+  This article examines the current literature and state legislation of statewide free tuition promise programs. The purpose of this paper was to analyze state free community college programs, legislation, scholarly literature, and state websites to understand program structures, funding sources, and studenteligibility requirements. The following classifications of state programs emerged: community and technical college programs, workforce development programs, and programs for both 2- and 4-year degrees and certificates. Additionally, this article examines the similarities and differences between programs to inform future research and accompanying outcomes.<br />
+  </details>     
   
 - #### [From the Foxhole to the Ivory Tower Paper](https://drive.google.com/file/d/1-TCdrkeItsNauqMuKdNzVbnldVpDn0z0/view?usp=sharing)
-  Abstract: More than 5,000,000 post-9/11 service members are expected to transition out of the military by 2020 due to a reduction in the size of the U.S. military and presence in Iraq and Afghanistan (American Council on Education, 2014). As these service members separate from the military many will choose to enter college. The purpose of this study was to explore the transition experiences of Post-9/11 student veterans from a military setting to college using Veteran Critical Theory to examine data collected from semi-structured interviews. The findings were presented as a composite narrative and add to and confirm a decade's worth of literature about the transition experiences of Post-9/11 student veterans. The findings also confirmed many of the tenets of Veteran Critical Theory (Phillips & Lincoln, 2017) especially related to the conflict between military, civilian, and academic cultures that disrupted student veterans' ability to adapt to their new role as civilian and student.
+  <details>
+  <summary>Abstract</summary> 
+  More than 5,000,000 post-9/11 service members are expected to transition out of the military by 2020 due to a reduction in the size of the U.S. military and presence in Iraq and Afghanistan (American Council on Education, 2014). As these service members separate from the military many will choose to enter college. The purpose of this study was to explore the transition experiences of Post-9/11 student veterans from a military setting to college using Veteran Critical Theory to examine data collected from semi-structured interviews. The findings were presented as a composite narrative and add to and confirm a decade's worth of literature about the transition experiences of Post-9/11 student veterans. The findings also confirmed many of the tenets of Veteran Critical Theory (Phillips & Lincoln, 2017) especially related to the conflict between military, civilian, and academic cultures that disrupted student veterans' ability to adapt to their new role as civilian and student.
+  </details>
   
 - #### [Public vs. Private Good: How Neoliberalism has Changed the Role of Higher Education and Created Issues of Access](https://drive.google.com/file/d/1-T3C7E9IuZJ8wMIU2N2-7cAxZLZDT5r2/view?usp=sharing)
+  <details>
+  <summary>Description</summary> 
   Essay begins on Page 3 of the book and discusses the history of higher education and the role neoliberalism has played on it's evolution. 
-
+  </details>
+   
 - #### [Computer Security Incidents](https://drive.google.com/file/d/1-fDnc230ojYafxCVGmLhF8HJMaVasiKD/view?usp=sharing)
-  Abstract: Computer security incidents have increased over the past decade for both the public and private sectors, and institutions of higher education are not immune to these incidents. This article explores computer security incidents and threats for higher education campuses, discusses the implications for higher education institutions, and makes recommendations for steps that higher education officials can take to mitigate these threats and incidents.
-
-</details>    
-  
+  <details>
+  <summary>Abstract</summary> 
+  Computer security incidents have increased over the past decade for both the public and private sectors, and institutions of higher education are not immune to these incidents. This article explores computer security incidents and threats for higher education campuses, discusses the implications for higher education institutions, and makes recommendations for steps that higher education officials can take to mitigate these threats and incidents.
+ </details>
   
   
   
