@@ -20,7 +20,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 | Mixed Methods | Quant & Qual Softwares | :white_circle:	:white_circle:	:white_circle:  :white_circle:  :large_blue_circle: 
 | Project Management | Microsoft Teams & Asana | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle: |
 | Web Design & CMS | WordPress, SquareSpace, & HTML | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
-| Learning Mangement Systems | Canvas & Blackboard | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
+| Learning Management Systems | Canvas & Blackboard | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
   
 ### Data Projects 
   
@@ -38,3 +38,6 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 
  ### Other Projects
  
+- #### [Computer Security Incidents](https://github.com/drcdavidson/drcdavidson/blob/7bc2ddd6b340fd73580b37d868ff8ecedefaef29/OtherProjects/Computer%20Security%20Incidents.pdf)
+
+- ### 
