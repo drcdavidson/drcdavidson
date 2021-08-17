@@ -1,7 +1,8 @@
 ![](https://github.com/drcdavidson/drcdavidson/blob/main/Images/Header.jfif)
 <p>
 
-
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+  
 ## Welcome to My Profile & Repository of Projects! 
 <a href="https://www.linkedin.com/in/drchrisdavidson/"><img height="50" align='right' src="https://raw.githubusercontent.com/drcdavidson/drcdavidson/master/Images/LI-In-Bug.png"></a>
 
