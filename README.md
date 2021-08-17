@@ -72,13 +72,13 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
   
 ### Reports 
 
-  - #### [University Student Emergency Relief Grants: Benchmarking Report for Implementing a Micro-or Emergency Grant Program](https://drive.google.com/file/d/1-Bf_wPTroP8VV757Gc0u4tT08ci76pZP/view?usp=sharing)
+- #### [University Student Emergency Relief Grants: Benchmarking Report for Implementing a Micro-or Emergency Grant Program](https://drive.google.com/file/d/1-Bf_wPTroP8VV757Gc0u4tT08ci76pZP/view?usp=sharing)
   <details>
   <summary>Abstract</summary> 
   On behalf of the University of Tennessee, Knoxville (UT), the Postsecondary Education Research Center (PERC) examined the use of micro- or emergency grants for students at aspirational and peer institutions. Additionally, PERC staff gathered information from programs at institutions with high Pell grant and high retention/graduation metrics across the United States. PERC staff reviewed information for 38 institutions and identified two program formats for microgrants or emergency funding for students: short-term or emergency loans and micro- or emergency grants. This report provides an overview of the two program formats, eligibility criteria, summary of current UT programs, and a recommendation and proposal for Smokey’s Grant.
   </details>    
     
-  - ###[tnAchieves and Southwest Tennessee Community College’s Jenny and Randy Boyd Summer Scholars Institute](https://drive.google.com/file/d/1-J-cXScfbWsEEDWa5-Gm2TAOn4ASuR1j/view?usp=sharing)
+- ###[tnAchieves and Southwest Tennessee Community College’s Jenny and Randy Boyd Summer Scholars Institute](https://drive.google.com/file/d/1-J-cXScfbWsEEDWa5-Gm2TAOn4ASuR1j/view?usp=sharing)
   <details>
   <summary>Description</summary>
   In November 2017, I released a two-page Promising Practices on behalf of the Postsecondary Education Research Center (PERC) where I served as the Postdoctoral Research Associate. This Promising Practices publication highlighted the innaugural Jenny and Randy Boyd Summer Scholars Institute held Southwest Tennessee Community College in Memphis, Tennessee.
