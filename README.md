@@ -39,5 +39,8 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
  ### Other Projects
  
 - #### [Computer Security Incidents](https://github.com/drcdavidson/drcdavidson/blob/7bc2ddd6b340fd73580b37d868ff8ecedefaef29/OtherProjects/Computer%20Security%20Incidents.pdf)
-
+  Abstract: Computer security incidents have increased over the past decade for both the public and private sectors, and institutions of higher education are not immune to these incidents. This article explores computer security incidents and threats for higher education campuses, discusses the implications for higher education institutions, and makes recommendations for steps that higher education officials can take to mitigate these threats and incidents.
+  
+  
+  
 - ### 
