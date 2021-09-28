@@ -37,7 +37,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
  
 ### Published Papers & Essays
 
-- #### [The Higher Education Funding Revolution: An Exploration of Statewide Community College “Free Tuition” Programs](https://drive.google.com/file/d/1-tXyQZ8ZwTaxkDE90u2MQBM8AYj2JSmU/view?usp=sharing) 
+- #### [The Higher Education Funding Revolution: An Exploration of Statewide Community College “Free Tuition” Programs](https://drive.google.com/file/d/15_g1gOKyyjUVu_3p9EuvAGpFWpZr74dP/view?usp=sharing) 
   Abstract: This article examines the current literature and state legislation of statewide free tuition promise programs. The purpose of this paper was to analyze state free community college programs, legislation, scholarly literature, and state websites to understand program structures, funding sources, and studenteligibility requirements. The following classifications of state programs emerged: community and technical college programs, workforce development programs, and programs for both 2- and 4-year degrees and certificates. Additionally, this article examines the similarities and differences between programs to inform future research and accompanying outcomes. 
   
 - #### [Participation on Community College Students’ Perceptions of Learning Gains and Engagement](https://doi.org/10.1080/10668926.2020.1852983) 
