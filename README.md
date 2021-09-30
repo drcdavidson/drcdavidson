@@ -43,13 +43,13 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 - #### [Participation on Community College Students’ Perceptions of Learning Gains and Engagement](https://doi.org/10.1080/10668926.2020.1852983) 
   Abstract: This study investigated the relationship learning community participation has with community college students’ perceived learning gains and engagement in educationally purposeful activities. Study data were sourced from the Community College Survey of Student Engagement (CCSSE) with a total of 694 institutions and over 107,000 participants. To control for differences between community colleges, fixed-effects regressions were conducted. Findings indicate that learning community participation was significantly related with increased perceived learning gains and four of the CSSSE engagement benchmarks: active/collaborative learning, academic challenge, student-faculty interaction, and support for learners. Implications for community college policymakers and administrators are discussed.
   
-- #### [From the Foxhole to the Ivory Tower Paper]() 
+- #### [From the Foxhole to the Ivory Tower Paper](https://github.com/drcdavidson/drcdavidson/blob/4054bc166ae9c5a22eec556c08b9a3395df42a37/GitHub%20Other%20Projects/From%20the%20Foxhole%20to%20the%20Ivory%20Tower%20-%20FINAL.pdf) 
   Abstract: More than 5,000,000 post-9/11 service members are expected to transition out of the military by 2020 due to a reduction in the size of the U.S. military and presence in Iraq and Afghanistan (American Council on Education, 2014). As these service members separate from the military many will choose to enter college. The purpose of this study was to explore the transition experiences of Post-9/11 student veterans from a military setting to college using Veteran Critical Theory to examine data collected from semi-structured interviews. The findings were presented as a composite narrative and add to and confirm a decade's worth of literature about the transition experiences of Post-9/11 student veterans. The findings also confirmed many of the tenets of Veteran Critical Theory (Phillips & Lincoln, 2017) especially related to the conflict between military, civilian, and academic cultures that disrupted student veterans' ability to adapt to their new role as civilian and student.
   
 - #### [Public vs. Private Good: How Neoliberalism has Changed the Role of Higher Education and Created Issues of Access]()
   Essay begins on Page 3 of the book and discusses the history of higher education and the role neoliberalism has played on it's evolution. 
 
-- #### [Computer Security Incidents]()
+- #### [Computer Security Incidents](https://github.com/drcdavidson/drcdavidson/blob/4054bc166ae9c5a22eec556c08b9a3395df42a37/GitHub%20Other%20Projects/Computer%20Security%20Incidents.pdf)
   Abstract: Computer security incidents have increased over the past decade for both the public and private sectors, and institutions of higher education are not immune to these incidents. This article explores computer security incidents and threats for higher education campuses, discusses the implications for higher education institutions, and makes recommendations for steps that higher education officials can take to mitigate these threats and incidents.
   
 ### Dissertation 
@@ -65,19 +65,19 @@ external to the college provide support during the transition from the military 
   
 ### Reports 
 
-- #### [University Student Emergency Relief Grants: Benchmarking Report for Implementing a Micro-or Emergency Grant Program]()
+- #### [University Student Emergency Relief Grants: Benchmarking Report for Implementing a Micro-or Emergency Grant Program](https://github.com/drcdavidson/drcdavidson/blob/4054bc166ae9c5a22eec556c08b9a3395df42a37/GitHub%20Other%20Projects/MicrograntReportWeb-12202017.pdf)
   Abstract: On behalf of the University of Tennessee, Knoxville (UT), the Postsecondary Education Research Center (PERC) examined the use of micro- or emergency grants for students at aspirational and peer institutions. Additionally, PERC staff gathered information from programs at institutions with high Pell grant and high retention/graduation metrics across the United States. PERC staff reviewed information for 38 institutions and identified two program formats for microgrants or emergency funding for students: short-term or emergency loans and micro- or emergency grants. This report provides an overview of the two program formats, eligibility criteria, summary of current UT programs, and a recommendation and proposal for Smokey’s Grant.
     
-- #### [tnAchieves and Southwest Tennessee Community College’s Jenny and Randy Boyd Summer Scholars Institute]()
+- #### [tnAchieves and Southwest Tennessee Community College’s Jenny and Randy Boyd Summer Scholars Institute](https://github.com/drcdavidson/drcdavidson/blob/4054bc166ae9c5a22eec556c08b9a3395df42a37/GitHub%20Other%20Projects/tnAchieves-and-Southwest-Tennessee-Community-Colleges-Jenny-and-Randy-Boyd-Summer-Scholars-Institute.pdf)
   In November 2017, I released a two-page Promising Practices on behalf of the Postsecondary Education Research Center (PERC) where I served as the Postdoctoral Research Associate. This Promising Practices publication highlighted the innaugural Jenny and Randy Boyd Summer Scholars Institute held Southwest Tennessee Community College in Memphis, Tennessee.
   
 ### Presentations
    
-- #### [From the Foxhole to the Ivory Tower Presentation]()
+- #### [From the Foxhole to the Ivory Tower Presentation](https://github.com/drcdavidson/drcdavidson/blob/4054bc166ae9c5a22eec556c08b9a3395df42a37/GitHub%20Other%20Projects/Davidson.ASHE.2018.pdf)
   Presentation given at the 2018 Association for the Study of Higher Education Annual Conference in Tampa, Florida. 
  
 - #### [Veterans Demonstration Project: Asset Mapping and Gap Analysis]()
   Presentation given to the Military Education Advisory Committee of the State Council for Higher Education of Virginia on June 20th, 2016.
   
-- #### [Veteran Influx: Supporting Veterans in the Higher Education Pipeline]()
+- #### [Veteran Influx: Supporting Veterans in the Higher Education Pipeline](https://github.com/drcdavidson/drcdavidson/blob/4054bc166ae9c5a22eec556c08b9a3395df42a37/GitHub%20Other%20Projects/Davidson.NASPA2016.Presentation.pdf)
   Presentation given at the 2016 Annual NASPA Conference in Indianapolis, Indiana. 
