@@ -37,7 +37,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
  
 ### Published Papers & Essays
 
-- #### [The Higher Education Funding Revolution: An Exploration of Statewide Community College “Free Tuition” Programs]() 
+- #### [The Higher Education Funding Revolution: An Exploration of Statewide Community College “Free Tuition” Programs](https://github.com/drcdavidson/drcdavidson/blob/6b48295191ffbf62bb96ed75438f7bdb10a33984/GitHub%20Other%20Projects/The%20Higher%20Education%20Funding%20Revolution.pdf) 
   Abstract: This article examines the current literature and state legislation of statewide free tuition promise programs. The purpose of this paper was to analyze state free community college programs, legislation, scholarly literature, and state websites to understand program structures, funding sources, and studenteligibility requirements. The following classifications of state programs emerged: community and technical college programs, workforce development programs, and programs for both 2- and 4-year degrees and certificates. Additionally, this article examines the similarities and differences between programs to inform future research and accompanying outcomes. 
   
 - #### [Participation on Community College Students’ Perceptions of Learning Gains and Engagement](https://doi.org/10.1080/10668926.2020.1852983) 
@@ -46,9 +46,6 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 - #### [From the Foxhole to the Ivory Tower Paper](https://github.com/drcdavidson/drcdavidson/blob/4054bc166ae9c5a22eec556c08b9a3395df42a37/GitHub%20Other%20Projects/From%20the%20Foxhole%20to%20the%20Ivory%20Tower%20-%20FINAL.pdf) 
   Abstract: More than 5,000,000 post-9/11 service members are expected to transition out of the military by 2020 due to a reduction in the size of the U.S. military and presence in Iraq and Afghanistan (American Council on Education, 2014). As these service members separate from the military many will choose to enter college. The purpose of this study was to explore the transition experiences of Post-9/11 student veterans from a military setting to college using Veteran Critical Theory to examine data collected from semi-structured interviews. The findings were presented as a composite narrative and add to and confirm a decade's worth of literature about the transition experiences of Post-9/11 student veterans. The findings also confirmed many of the tenets of Veteran Critical Theory (Phillips & Lincoln, 2017) especially related to the conflict between military, civilian, and academic cultures that disrupted student veterans' ability to adapt to their new role as civilian and student.
   
-- #### [Public vs. Private Good: How Neoliberalism has Changed the Role of Higher Education and Created Issues of Access]()
-  Essay begins on Page 3 of the book and discusses the history of higher education and the role neoliberalism has played on it's evolution. 
-
 - #### [Computer Security Incidents](https://github.com/drcdavidson/drcdavidson/blob/4054bc166ae9c5a22eec556c08b9a3395df42a37/GitHub%20Other%20Projects/Computer%20Security%20Incidents.pdf)
   Abstract: Computer security incidents have increased over the past decade for both the public and private sectors, and institutions of higher education are not immune to these incidents. This article explores computer security incidents and threats for higher education campuses, discusses the implications for higher education institutions, and makes recommendations for steps that higher education officials can take to mitigate these threats and incidents.
   
@@ -60,7 +57,7 @@ external to the college provide support during the transition from the military 
   
  ### Grant Funded Research
 
-- #### [Virginia Veterans Demonstration Project]()
+- #### [Virginia Veterans Demonstration Project](https://github.com/drcdavidson/drcdavidson/blob/939e90fe27ddb12bf52ee385e17d4e8625fcb9bf/GitHub%20Other%20Projects/VCCS-WDS.pdf)
   Abstract: From  July 2015 to August 2016, I served as a Project Associate & Graduated Research Associate at the Virginia Tech Institute of Policy and Governance while working on his doctoral degree. In colloboration with  StreamLines, LLC and other partners, he conducted research at the request of the Virginia Community College System - Workforce Development Services (VCCS-WDS), as part of the Virginia Veterans Demonstration Project funded by the U.S. Department of Labor. The Demonstration Project had four components intended to improve educational and employment opportunities for Virginia’s Transitioning Service Members (TSMs) and veterans. The asset mapping, best practices research and gap analysis were the key components of a formative evaluation study that provided research findings to support program and policy action recommendations for the Virginia Board of Workforce Development. In total there are seven (7) reports.   
   
 ### Reports 
@@ -76,7 +73,7 @@ external to the college provide support during the transition from the military 
 - #### [From the Foxhole to the Ivory Tower Presentation](https://github.com/drcdavidson/drcdavidson/blob/4054bc166ae9c5a22eec556c08b9a3395df42a37/GitHub%20Other%20Projects/Davidson.ASHE.2018.pdf)
   Presentation given at the 2018 Association for the Study of Higher Education Annual Conference in Tampa, Florida. 
  
-- #### [Veterans Demonstration Project: Asset Mapping and Gap Analysis]()
+- #### [Veterans Demonstration Project: Asset Mapping and Gap Analysis](https://github.com/drcdavidson/drcdavidson/blob/e4acdf6b86936f8c1c29cacbd32809cb3256967f/GitHub%20Other%20Projects/SCHEV_Presentation.pdf)
   Presentation given to the Military Education Advisory Committee of the State Council for Higher Education of Virginia on June 20th, 2016.
   
 - #### [Veteran Influx: Supporting Veterans in the Higher Education Pipeline](https://github.com/drcdavidson/drcdavidson/blob/4054bc166ae9c5a22eec556c08b9a3395df42a37/GitHub%20Other%20Projects/Davidson.NASPA2016.Presentation.pdf)
