@@ -57,7 +57,7 @@ external to the college provide support during the transition from the military 
   
  ### Grant Funded Research
 
-- #### [Virginia Veterans Demonstration Project]()
+- #### [Virginia Veterans Demonstration Project](https://drive.google.com/file/d/1--yH-Nim63tReSETLY3zWmsA5FGoMrAr/view?usp=sharing)
   Abstract: From  July 2015 to August 2016, I served as a Project Associate & Graduated Research Associate at the Virginia Tech Institute of Policy and Governance while working on his doctoral degree. In colloboration with  StreamLines, LLC and other partners, he conducted research at the request of the Virginia Community College System - Workforce Development Services (VCCS-WDS), as part of the Virginia Veterans Demonstration Project funded by the U.S. Department of Labor. The Demonstration Project had four components intended to improve educational and employment opportunities for Virginia’s Transitioning Service Members (TSMs) and veterans. The asset mapping, best practices research and gap analysis were the key components of a formative evaluation study that provided research findings to support program and policy action recommendations for the Virginia Board of Workforce Development. In total there are seven (7) reports.   
   
 ### Reports 
@@ -76,5 +76,5 @@ external to the college provide support during the transition from the military 
 - #### [Veterans Demonstration Project: Asset Mapping and Gap Analysis](https://drive.google.com/file/d/1nM3GkYx-SQYbBh2Kt6W03v-ANnPKHmAz/view?usp=sharing)
   Presentation given to the Military Education Advisory Committee of the State Council for Higher Education of Virginia on June 20th, 2016.
   
-- #### [Veteran Influx: Supporting Veterans in the Higher Education Pipeline]()
+- #### [Veteran Influx: Supporting Veterans in the Higher Education Pipeline](https://drive.google.com/file/d/1dGohuy3jz4U2SPpy9sckmvu_wK6kYSKe/view?usp=sharing)
   Presentation given at the 2016 Annual NASPA Conference in Indianapolis, Indiana. 
