@@ -1,4 +1,4 @@
-![](https://github.com/drcdavidson/drcdavidson/blob/main/Images/Header.jfif)
+![](Images/Linked Banner.png)
 <p>
   
 ## Welcome to My Profile & Repository of Projects! 
