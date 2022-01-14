@@ -1,4 +1,4 @@
-![](Images/Linked Banner.png)
+![](https://github.com/drcdavidson/drcdavidson/blob/08d193f9cc79f7734234c44585431bec01d72dfc/Images/Linked%20Banner.png)
 <p>
   
 ## Welcome to My Profile & Repository of Projects! 
