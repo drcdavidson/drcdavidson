@@ -23,7 +23,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 ### Data Science Projects 
 
 - #### [The 2022 GOP Candidates & Information Dashboard](https://public.tableau.com/views/The2022GOPCandidatesInformationDashboard/Home?:language=en-US&:display_count=n&:origin=viz_share_link)  
-  This Tableau Project includes various dashboards related to the 2022 U.S. Midterm Elections for the House of Representatives and Senate and to track candidates for the Republican Party. 
+  This Tableau Project includes various dashboards related to the 2022 U.S. Midterm Elections for the House of Representatives and Senate and to track candidates for the Republican Party.  <br />
   **Status: In Progress** :arrows_counterclockwise:
   
 - #### [Graduation Rates Project](https://github.com/drcdavidson/gradrates)
