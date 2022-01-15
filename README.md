@@ -23,7 +23,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 ### Data Science Projects 
 
 - #### [Graduation Rates Project](https://github.com/drcdavidson/gradrates)
-  This repository includes the R Scripts and R Markdown file for the second of two final projects for the HarvardX Data Science: Capstone towards the Professional Certificate in Data Sciences via EdX.  <br />
+  This repository includes the R Scripts and R Markdown file for the second of two final projects for the HarvardX Data Science: Capstone towards the Professional Certificate in Data Sciences via EdX. <br />
   **Status: Completed** :heavy_check_mark:
   
 - #### [Movie Lens Project](https://github.com/drcdavidson/movielens)
@@ -31,8 +31,8 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
   **Status: Completed** :heavy_check_mark:
    
 - #### [College Endowments Project](https://github.com/drcdavidson/college-endowments)
-  This exploratory project examines four-year college endowment growth as well as other variables that may correlate to growth from the Department of Education's IPEDS Data. <br />
-  **Status: Paused** :pause_button:
+  This exploratory project examines four-year college endowment growth as well as other variables that may correlate to growth from the Department of Education's IPEDS Data.  A [University Endowments Tableau Dashboard](https://public.tableau.com/views/UniversityEndowments_16422080195550/UniversityEndowments?:language=en-US&:display_count=n&:origin=viz_share_link) can be found online. <br />
+  **Status: In Progress** 🔄:
  
 ### Published Papers & Essays
 
