@@ -19,7 +19,8 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 | Project Management | Microsoft Teams & Asana | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle: |
 | Web Design & CMS | WordPress, SquareSpace, & HTML | :white_circle:	:white_circle:	:white_circle:	:large_blue_circle: :white_circle:
 | Learning Management Systems | Canvas & Blackboard | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
-
+| GIS | QGIS | :white_circle: :white_circle: :large_blue_circle: :white_circle: :white_circle:	
+  
 ### Data Science Projects 
 
 - #### [Graduation Rates Project](https://github.com/drcdavidson/gradrates)
