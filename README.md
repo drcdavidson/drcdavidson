@@ -20,7 +20,15 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 | Web Design & CMS | WordPress, SquareSpace, & HTML | :white_circle:	:white_circle:	:white_circle:	:large_blue_circle: :white_circle:
 | Learning Management Systems | Canvas & Blackboard | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 
-### Data Science Projects 
+  ### Tableau Dashboards
+
+- #### [University Endowments Dashboard](https://public.tableau.com/views/UniversityEndowments_16422080195550/UniversityEndowments?:language=en-US&:display_count=n&:origin=viz_share_link)
+  
+- #### [Virginia Statewide Elections 2021](https://public.tableau.com/views/VirginiaStatewideElections2021/VirginiasStatewideElection2021?:language=en-US&:display_count=n&:origin=viz_share_link)
+  
+- #### [European Map Showing EU & NATO Membership](https://public.tableau.com/views/EuropeanMapShowingEUNATOMembership/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+  
+  ### Data Science Projects 
 
 - #### [Graduation Rates Project](https://github.com/drcdavidson/gradrates)
   This repository includes the R Scripts and R Markdown file for the second of two final projects for the HarvardX Data Science: Capstone towards the Professional Certificate in Data Sciences via EdX. <br />
@@ -32,7 +40,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
    
 - #### [College Endowments Project](https://github.com/drcdavidson/college-endowments)
   This exploratory project examines four-year college endowment growth as well as other variables that may correlate to growth from the Department of Education's IPEDS Data.  A [University Endowments Tableau Dashboard](https://public.tableau.com/views/UniversityEndowments_16422080195550/UniversityEndowments?:language=en-US&:display_count=n&:origin=viz_share_link) can be found online. <br />
-  **Status: In Progress** 🔄:
+  **Status: In Progress** :heavy_check_mark:
  
 ### Published Papers & Essays
 
