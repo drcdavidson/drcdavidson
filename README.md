@@ -20,15 +20,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 | Web Design & CMS | WordPress, SquareSpace, & HTML | :white_circle:	:white_circle:	:white_circle:	:large_blue_circle: :white_circle:
 | Learning Management Systems | Canvas & Blackboard | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 
-  ### Tableau Dashboards
-
-- #### [University Endowments Dashboard](https://public.tableau.com/views/UniversityEndowments_16422080195550/UniversityEndowments?:language=en-US&:display_count=n&:origin=viz_share_link)
-  
-- #### [Virginia Statewide Elections 2021](https://public.tableau.com/views/VirginiaStatewideElections2021/VirginiasStatewideElection2021?:language=en-US&:display_count=n&:origin=viz_share_link)
-  
-- #### [European Map Showing EU & NATO Membership](https://public.tableau.com/views/EuropeanMapShowingEUNATOMembership/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-  
-  ### Data Science Projects 
+### Data Science Projects 
 
 - #### [Graduation Rates Project](https://github.com/drcdavidson/gradrates)
   This repository includes the R Scripts and R Markdown file for the second of two final projects for the HarvardX Data Science: Capstone towards the Professional Certificate in Data Sciences via EdX. <br />
@@ -40,8 +32,16 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
    
 - #### [College Endowments Project](https://github.com/drcdavidson/college-endowments)
   This exploratory project examines four-year college endowment growth as well as other variables that may correlate to growth from the Department of Education's IPEDS Data.  A [University Endowments Tableau Dashboard](https://public.tableau.com/views/UniversityEndowments_16422080195550/UniversityEndowments?:language=en-US&:display_count=n&:origin=viz_share_link) can be found online. <br />
-  **Status: In Progress** :heavy_check_mark:
- 
+  **Status: Completed** :heavy_check_mark:
+
+### Tableau Dashboards
+
+- #### [University Endowments Dashboard](https://public.tableau.com/views/UniversityEndowments_16422080195550/UniversityEndowments?:language=en-US&:display_count=n&:origin=viz_share_link)
+  
+- #### [Virginia Statewide Elections 2021](https://public.tableau.com/views/VirginiaStatewideElections2021/VirginiasStatewideElection2021?:language=en-US&:display_count=n&:origin=viz_share_link)
+  
+- #### [European Map Showing EU & NATO Membership](https://public.tableau.com/views/EuropeanMapShowingEUNATOMembership/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)  
+  
 ### Published Papers & Essays
 
 - #### [The Higher Education Funding Revolution: An Exploration of Statewide Community College “Free Tuition” Programs](https://drive.google.com/file/d/1_LVNlazA8uF4EHWvQrQbFzAIFJqJlSE8/view?usp=sharing) 
@@ -62,7 +62,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 veterans experience a challenging transition from the military to college and that military and veteran student offices and veteran student organizations play an important role in the transition for student veterans. The findings also included that the conflict between military, civilian, and academic cultures disrupted student veterans’ ability to adapt to their new role as civilian and student. To combat this conflict, student veterans turn to family and other veterans internal and
 external to the college provide support during the transition from the military as they integrate their military, civilian, and academic identities.
   
- ### Grant Funded Research
+### Grant Funded Research
 
 - #### [Virginia Veterans Demonstration Project](https://drive.google.com/file/d/1--yH-Nim63tReSETLY3zWmsA5FGoMrAr/view?usp=sharing)
   Abstract: From  July 2015 to August 2016, I served as a Project Associate & Graduated Research Associate at the Virginia Tech Institute of Policy and Governance while working on his doctoral degree. In colloboration with  StreamLines, LLC and other partners, he conducted research at the request of the Virginia Community College System - Workforce Development Services (VCCS-WDS), as part of the Virginia Veterans Demonstration Project funded by the U.S. Department of Labor. The Demonstration Project had four components intended to improve educational and employment opportunities for Virginia’s Transitioning Service Members (TSMs) and veterans. The asset mapping, best practices research and gap analysis were the key components of a formative evaluation study that provided research findings to support program and policy action recommendations for the Virginia Board of Workforce Development. In total there are seven (7) reports.   
