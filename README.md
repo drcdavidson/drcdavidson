@@ -21,8 +21,16 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 | Learning Management Systems | Canvas & Blackboard | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 | GIS | QGIS | :white_circle: :white_circle: :large_blue_circle: :white_circle: :white_circle:	
   
-### Data Science Projects 
+### Data Science Projects & Tableau Dashboards
 
+- #### [Virginia Statewide Elections 2021](https://public.tableau.com/views/VirginiaStatewideElections2021/VirginiasStatewideElection2021?:language=en-US&:display_count=n&:origin=viz_share_link)
+  This Tableau dashboard provides a visualization of the Commonwealth of Virginia's 2021 Elections for  Governor, Lieutenant Governor, and Attorney General Election. Data includes election results by county and precinct. Visualizations include both the electoral map and data tables.   
+  **Status: Completed** :heavy_check_mark:
+  
+- #### [European Map Showing EU & NATO Membership](https://public.tableau.com/views/EuropeanMapShowingEUNATOMembership/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)  
+  This Tableau dashboard provides a visual map of Europe showing membership in NATO, the European Union, highlighting Ukraine, and the boundary of the former Soviet Union. 
+  **Status: Completed** :heavy_check_mark:
+  
 - #### [Graduation Rates Project](https://github.com/drcdavidson/gradrates)
   This repository includes the R Scripts and R Markdown file for the second of two final projects for the HarvardX Data Science: Capstone towards the Professional Certificate in Data Sciences via EdX. <br />
   **Status: Completed** :heavy_check_mark:
@@ -30,12 +38,6 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 - #### [Movie Lens Project](https://github.com/drcdavidson/movielens)
   This repository includes the R Scripts and R Markdown file for the first of two final projects for the HarvardX Data Science: Capstone towards the Professional Certificate in Data Sciences via EdX. <br />
   **Status: Completed** :heavy_check_mark:
-
-### Tableau Dashboards
-
-- #### [Virginia Statewide Elections 2021](https://public.tableau.com/views/VirginiaStatewideElections2021/VirginiasStatewideElection2021?:language=en-US&:display_count=n&:origin=viz_share_link)
-  
-- #### [European Map Showing EU & NATO Membership](https://public.tableau.com/views/EuropeanMapShowingEUNATOMembership/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)  
   
 ### Published Papers & Essays
 
