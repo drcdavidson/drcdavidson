@@ -13,6 +13,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 | Data Science & Visualizations |  R Studio | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 | | SQL | :white_circle:	:white_circle:  :large_blue_circle:   :white_circle:  :white_circle:
 | | Tableau | :white_circle:	:white_circle:	:white_circle:	 :white_circle:   :large_blue_circle:  
+| | Tableau | :white_circle:	:white_circle:	:large_blue_circle: :white_circle:	 :white_circle:      
 | Survey Research | Qualtrics | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 | Qualitative Methods | Dedoose |:white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 | Mixed Methods | | :white_circle:	:white_circle:	:white_circle:  :white_circle:  :large_blue_circle: 
