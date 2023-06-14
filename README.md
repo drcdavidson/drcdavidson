@@ -25,7 +25,7 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 
 - #### [Mock University Sample Data](https://public.tableau.com/views/MockUniveristySampleData/StudentCharacteristics?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
   This Tableau dashboard provides a visualization of a fictional dataset of Mock University including Student Demographic Characteristics, Enrollment Trends, Financial Charges, and other factors. <br />
-  **Status: In Progress** 🔄  
+  **Status: Completed** :heavy_check_mark:
   
 - #### [Virginia Statewide Elections 2021](https://public.tableau.com/views/VirginiaStatewideElections2021/VirginiasStatewideElection2021?:language=en-US&:display_count=n&:origin=viz_share_link)
   This Tableau dashboard provides a visualization of the Commonwealth of Virginia's 2021 Elections for  Governor, Lieutenant Governor, and Attorney General Election. Data includes election results by county and precinct. Visualizations include both the electoral map and data tables. <br />
