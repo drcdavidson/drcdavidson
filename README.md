@@ -11,7 +11,7 @@ I am a researcher, policy analyst, content creator, and author with over 15 year
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
+ 
 My areas of interest include 
 :classical_building: Postsecondary Education, 
 :ballot_box: Public Policy, 
