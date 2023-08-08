@@ -1,12 +1,36 @@
 ![](https://github.com/drcdavidson/drcdavidson/blob/main/Images/Banner.png)
 <p>
   
-## Welcome to My Profile & Repository of Projects! 
-<a href="https://www.linkedin.com/in/drchrisdavidson/"><img height="50" align='right' src="https://raw.githubusercontent.com/drcdavidson/drcdavidson/master/Images/LI-In-Bug.png"></a>
+## Welcome to My Profile & Repository of Projects!
+I am a researcher, policy analyst, content creator, and author with over 15 years of experience in higher education who is passionate about using data to solve problems and tell stories.
 
-I am a researcher with 15+ years of experience in higher eduation who is passionate about using data to solve problems. My areas of interest include :classical_building: Postsecondary Education, :ballot_box: Public Policy, :scroll: Law, and I am skilled at :black_nib: Writing Proposals,:mag: Evaluation, and :computer: Research Methods.
+<p align="right">  
+  <a href="mailto:chrisdavidsonphd@gmail.com">
+    <img src="https://commons.wikimedia.org/wiki/File:Mail_(iOS).svg" />
+  <a href="https://www.linkedin.com/in/chrisdavidson/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-### Technical Skills & Software Proficiencies
+My areas of interest include 
+:classical_building: Postsecondary Education, 
+:ballot_box: Public Policy, 
+:scroll: Law, 
+and I am skilled at :black_nib: Writing Proposals,:mag: Evaluation, and :computer: Research Methods.
+
+
+
+---
+
+### <p align="center"> Core Competencies </p>
+<p align="center">
+Quantitative & Qualitative Research Methods | Data Analysis | Data Visualizations | Dashboard & Database Creation <br>
+Tableau, Microsoft PowerBI, & R Studio | Law & Policy Analysis | Assessment & Evaluation | Strategic Planning Project Management | <be>
+Team Development | Organizational Leadership & Management | Communications </p>
+
+---
+
+### <p align="center"> Technical Skills & Software Proficiencies </p>
 | Skills | Related Software | Proficiency |
 | --- | --- | --- |
 | Quantitative Methods | R | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
@@ -21,12 +45,15 @@ I am a researcher with 15+ years of experience in higher eduation who is passion
 | Web Design & CMS | WordPress, SquareSpace, & HTML | :white_circle:	:white_circle:	:white_circle:	:large_blue_circle: :white_circle:
 | Learning Management Systems | Canvas & Blackboard | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 | GIS | QGIS | :white_circle: :white_circle: :large_blue_circle: :white_circle: :white_circle:	
-  
+
+---
+
 ### Data Science Projects & Tableau Dashboards
 
-- #### [Mock University Sample Data](https://public.tableau.com/views/MockUniveristySampleData/StudentCharacteristics?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+<!-- #### [Mock University Sample Data](https://public.tableau.com/views/MockUniveristySampleData/StudentCharacteristics?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
   This Tableau dashboard provides a visualization of a fictional dataset of Mock University including Student Demographic Characteristics, Enrollment Trends, Financial Charges, and other factors. <br />
-  **Status: Completed** :heavy_check_mark:
+  **Status: Completed** :heavy_check_mark:-->
+
   
 - #### [Virginia Statewide Elections 2021](https://public.tableau.com/views/VirginiaStatewideElections2021/VirginiasStatewideElection2021?:language=en-US&:display_count=n&:origin=viz_share_link)
   This Tableau dashboard provides a visualization of the Commonwealth of Virginia's 2021 Elections for  Governor, Lieutenant Governor, and Attorney General Election. Data includes election results by county and precinct. Visualizations include both the electoral map and data tables. <br />
