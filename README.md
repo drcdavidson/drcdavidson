@@ -23,6 +23,7 @@ Team Development | Organizational Leadership & Management | Communications </p>
 ---
 
 ### <p align="center"> Technical Skills & Software Proficiencies </p>
+
 | Skills | Related Software | Proficiency |
 | --- | --- | --- |
 | Quantitative Methods | R | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
@@ -37,6 +38,7 @@ Team Development | Organizational Leadership & Management | Communications </p>
 | Web Design & CMS | WordPress, SquareSpace, & HTML | :white_circle:	:white_circle:	:white_circle:	:large_blue_circle: :white_circle:
 | Learning Management Systems | Canvas & Blackboard | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 | GIS | QGIS | :white_circle: :white_circle: :large_blue_circle: :white_circle: :white_circle:	
+
 
 ---
 
