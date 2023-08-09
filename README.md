@@ -10,7 +10,7 @@ I am a researcher, policy analyst, content creator, and author with over 15 year
   </a>
   
   <a href="https://www.linkedin.com/in/chrisdavidson/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
   </a>
 </p>
  
