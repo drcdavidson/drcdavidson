@@ -5,8 +5,9 @@
 I am a researcher, policy analyst, content creator, and author with over 15 years of experience in higher education who is passionate about using data to solve problems and tell stories.
 
 <p align="right">  
-  <a href="mailto:chrisdavidsonphd@gmail.com">
-    <img src="https://commons.wikimedia.org/wiki/File:Mail_(iOS).svg" />
+  <a href="mailto:chrisdavidsonphd@gmail.com?">
+    <img src="https://raw.githubusercontent.com/drcdavidson/drcdavidson/main/Images/Mail_(iOS).svg)" /> </a>
+  
   <a href="https://www.linkedin.com/in/chrisdavidson/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
