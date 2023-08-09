@@ -6,7 +6,8 @@ I am a researcher, policy analyst, content creator, and author with over 15 year
 
 <p align="right">  
   <a href="mailto:chrisdavidsonphd@gmail.com?">
-    <img src="https://raw.githubusercontent.com/drcdavidson/drcdavidson/main/Images/Mail_(iOS).svg)" /> </a>
+    <img src="https://raw.githubusercontent.com/drcdavidson/drcdavidson/main/Images/Mail_(iOS).svg" width="50" height="50" /> 
+  </a>
   
   <a href="https://www.linkedin.com/in/chrisdavidson/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
