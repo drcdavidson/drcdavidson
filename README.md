@@ -1,27 +1,16 @@
-![](https://github.com/drcdavidson/drcdavidson/blob/main/Images/Banner.png)
+![](https://github.com/drcdavidson/drcdavidson/blob/f32cc66e6dfbbd3bee130771b0833d2db4d9fd1c/Images/Linked%20Banner.png)
 <p>
   
 ## Welcome to My Profile & Repository of Projects!
-I am a researcher, policy analyst, content creator, and author with over 15 years of experience in higher education who is passionate about using data to solve problems and tell stories.
+<a href="https://www.linkedin.com/in/drchrisdavidson/"><img height="50" align='right' src="https://raw.githubusercontent.com/drcdavidson/drcdavidson/master/Images/LI-In-Bug.png"></a>
+
+I am a researcher, policy analyst, content creator, and author with over 15 years of experience in higher education who is passionate about using data to solve problems and tell stories. 
 
 My areas of interest include 
 :classical_building: Postsecondary Education, 
 :ballot_box: Public Policy, 
 :scroll: Law, 
-and I am skilled at :black_nib: Writing Proposals,:mag: Evaluation, and :computer: Research Methods.
-
-<a href="https://www.linkedin.com/in/chrisdavidson/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" style="float:right"/>
-  </a>
-
-
-<p align="right">  
-
-</p>
- 
-
-
-
+:mag: Evaluation, and :computer: Research Methods.
 
 ---
 
