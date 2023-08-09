@@ -21,23 +21,20 @@ Tableau, Microsoft PowerBI, & R Studio | Law & Policy Analysis | Assessment & Ev
 Team Development | Organizational Leadership & Management | Communications </p>
 
 ---
-
 ### <p align="center"> Technical Skills & Software Proficiencies </p>
 
 | Skills | Related Software | Proficiency |
 | --- | --- | --- |
-| Quantitative Methods | R | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
-| Data Science & Visualizations |  R Studio | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
+| Data Science & Visualizations | R & R Studio | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 | | SQL | :white_circle:	:white_circle:  :large_blue_circle:   :white_circle:  :white_circle:
 | | Tableau | :white_circle:	:white_circle:	:white_circle:	 :white_circle:   :large_blue_circle:  
 | | PowerBI | :white_circle:	:white_circle:	:large_blue_circle: :white_circle:	 :white_circle:      
 | Survey Research | Qualtrics | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 | Qualitative Methods | Dedoose |:white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
-| Mixed Methods | | :white_circle:	:white_circle:	:white_circle:  :white_circle:  :large_blue_circle: 
-| Project Management | Microsoft Teams & Asana | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle: |
+| Project Management | Asana | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle: |
 | Web Design & CMS | WordPress, SquareSpace, & HTML | :white_circle:	:white_circle:	:white_circle:	:large_blue_circle: :white_circle:
 | Learning Management Systems | Canvas & Blackboard | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
-| GIS | QGIS | :white_circle: :white_circle: :large_blue_circle: :white_circle: :white_circle:	
+| GIS | ArcGIS QGIS | :white_circle: :white_circle: :large_blue_circle: :white_circle: :white_circle:	
 
 
 ---
