@@ -4,21 +4,22 @@
 ## Welcome to My Profile & Repository of Projects!
 I am a researcher, policy analyst, content creator, and author with over 15 years of experience in higher education who is passionate about using data to solve problems and tell stories.
 
-<p align="right">  
-  <a href="mailto:chrisdavidsonphd@gmail.com?">
-    <img src="https://raw.githubusercontent.com/drcdavidson/drcdavidson/main/Images/Mail_(iOS).svg" width="50" height="50" /> 
-  </a>
-  
-  <a href="https://www.linkedin.com/in/chrisdavidson/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
-  </a>
-</p>
- 
 My areas of interest include 
 :classical_building: Postsecondary Education, 
 :ballot_box: Public Policy, 
 :scroll: Law, 
 and I am skilled at :black_nib: Writing Proposals,:mag: Evaluation, and :computer: Research Methods.
+
+<a href="https://www.linkedin.com/in/chrisdavidson/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" style="float:right"/>
+  </a>
+
+
+<p align="right">  
+
+</p>
+ 
+
 
 
 
