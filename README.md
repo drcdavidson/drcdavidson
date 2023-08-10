@@ -23,10 +23,9 @@ Team Development | Organizational Leadership & Management | Communications </p>
 ---
 ### <p align="center"> Technical Skills & Software Proficiencies </p>
 
-
-| Skills | Related Software | Proficiency |
+ | Skills | Related Software | Proficiency |
 | --- | --- | --- |
-| Data Science & Visualizations | R & R Studio | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
+| Data Science & Visualizations | R & RStudio | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 | | SQL | :white_circle:	:white_circle:  :large_blue_circle:   :white_circle:  :white_circle:
 | | Tableau | :white_circle:	:white_circle:	:white_circle:	 :white_circle:   :large_blue_circle:  
 | | PowerBI | :white_circle:	:white_circle:	:large_blue_circle: :white_circle:	 :white_circle:      
@@ -36,6 +35,52 @@ Team Development | Organizational Leadership & Management | Communications </p>
 | Web Design & CMS | WordPress, SquareSpace, & HTML | :white_circle:	:white_circle:	:white_circle:	:large_blue_circle: :white_circle:
 | Learning Management Systems | Canvas & Blackboard | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
 | GIS | ArcGIS QGIS | :white_circle: :white_circle: :large_blue_circle: :white_circle: :white_circle:	
+
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2"><strong>Skills</strong></th>
+      <th rowspan="2"><strong>Software/Technology</strong></th>
+      <th colspan="4"><strong>Proficiency</strong></th>
+    </tr>
+    <tr>
+      <th>Beginner</th>
+      <th>Intermediate</th>
+      <th>Proficient</th>
+      <th>Advanced</th>
+    </tr>
+  </thead>
+ <tr>
+      <td rowspan="3">Data Science & Visualizations</td>
+      <td>R and RStudio</td>
+      <th> :white_circle: </th>
+      <th> :white_circle: </th>
+      <th> :white_circle: </th>
+      <th> :white_circle: </th>
+ </tr>
+ <tr>
+      <td>Tableau</td>
+      <th> :white_circle: </th>
+      <th> :white_circle: </th>
+      <th> :white_circle: </th>
+      <th> :white_circle: </th>
+  </tr>
+  <tr>
+      <td>PowerBI</td>
+      <th> :white_circle: </th>
+      <th> :white_circle: </th>
+      <th> :white_circle: </th>
+      <th> :white_circle: </th>
+  </tr>
+
+<table>
+
+
+
+
+
 
 
 
