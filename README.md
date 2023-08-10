@@ -56,7 +56,7 @@ Team Development | Organizational Leadership & Management | Communications </p>
       <td rowspan="3">Data Science & Visualizations</td>
       <td>R and RStudio</td>
       <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
-      <th><img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
       <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="22" height="22"> </th>
       <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
  </tr>
