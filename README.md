@@ -56,8 +56,8 @@ Team Development | Organizational Leadership & Management | Communications </p>
       <td rowspan="3">Data Science & Visualizations</td>
       <td>R and RStudio</td>
       <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
-      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
-      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
+      <th><img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="22" height="22"> </th>
       <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
  </tr>
  <tr>
@@ -65,21 +65,17 @@ Team Development | Organizational Leadership & Management | Communications </p>
       <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
       <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
       <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
-      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="22" height="22"> </th>
   </tr>
   <tr>
       <td>PowerBI</td>
       <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
-      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="22" height="22"> </th>
       <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
       <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="22" height="22"> </th>
   </tr>
 
 <table>
-
-https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png
-
-<img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20">
 
 
 
