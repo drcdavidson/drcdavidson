@@ -106,6 +106,14 @@ Team Development | Organizational Leadership & Management | Communications </p>
     <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
     <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
   </tr>
+   <tr>
+    <td rowspan="1">Email Marketing Campaigns</td>
+    <td>Emma by Marigold</td>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+  </tr>
   <tr>
     <td rowspan="1">Learning Managment Systems (LMS)</td>
     <td>Canvas</td>
