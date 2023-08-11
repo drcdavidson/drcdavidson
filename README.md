@@ -60,8 +60,22 @@ Team Development | Organizational Leadership & Management | Communications </p>
     <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
   </tr>
   <tr>
-    <td rowspan="1">Data Managment</td>
+    <td rowspan="3">Database and Data Managment</td>
     <td>Airtable</td>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
+  </tr>
+  <tr>
+    <td>SQL</td>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+  </tr>
+   <tr>
+    <td>Excel</td>
     <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
     <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
     <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
@@ -92,12 +106,19 @@ Team Development | Organizational Leadership & Management | Communications </p>
     <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
   </tr>
   <tr>
-    <td rowspan="2">Webdesign and CMS</td>
+    <td rowspan="3">Webdesign and CMS</td>
     <td>Wordpress</td>
     <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
     <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
     <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
     <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
+  </tr>
+  <tr>
+    <td>Squarespace</td>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
+    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
   </tr>
   <tr>
     <td>HTML</td>
@@ -106,7 +127,9 @@ Team Development | Organizational Leadership & Management | Communications </p>
     <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
     <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
   </tr>
-   <tr>
+  
+  
+  <tr>
     <td rowspan="1">Email Marketing Campaigns</td>
     <td>Emma by Marigold</td>
     <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
