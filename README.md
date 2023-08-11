@@ -131,11 +131,6 @@ Team Development | Organizational Leadership & Management | Communications </p>
   </tr>
 <table>
 
-
-
-
-
-
 ---
 
 ### Data Science Projects & Tableau Dashboards
