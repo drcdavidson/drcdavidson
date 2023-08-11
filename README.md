@@ -23,21 +23,6 @@ Team Development | Organizational Leadership & Management | Communications </p>
 ---
 ### <p align="center"> Technical Skills & Software Proficiencies </p>
 
- | Skills | Related Software | Proficiency |
-| --- | --- | --- |
-| Data Science & Visualizations | R & RStudio | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
-| | SQL | :white_circle:	:white_circle:  :large_blue_circle:   :white_circle:  :white_circle:
-| | Tableau | :white_circle:	:white_circle:	:white_circle:	 :white_circle:   :large_blue_circle:  
-| | PowerBI | :white_circle:	:white_circle:	:large_blue_circle: :white_circle:	 :white_circle:      
-| Survey Research | Qualtrics | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
-| Qualitative Methods | Dedoose |:white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
-| Project Management | Asana | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle: |
-| Web Design & CMS | WordPress, SquareSpace, & HTML | :white_circle:	:white_circle:	:white_circle:	:large_blue_circle: :white_circle:
-| Learning Management Systems | Canvas & Blackboard | :white_circle:	:white_circle:	:white_circle:	:white_circle:  :large_blue_circle:
-| GIS | ArcGIS QGIS | :white_circle: :white_circle: :large_blue_circle: :white_circle: :white_circle:	
-
-<br>
-
 <table>
   <thead>
     <tr>
@@ -74,7 +59,76 @@ Team Development | Organizational Leadership & Management | Communications </p>
       <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
       <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
   </tr>
-
+ <tr>
+      <td rowspan="1">Data Managment</td>
+      <td>Airtable</td>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
+ </tr>
+  <tr>
+      <td rowspan="1">Survey Research</td>
+      <td>Qualtrics</td>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
+ </tr>
+ <tr>
+      <td rowspan="1">Qualitative Research</td>
+      <td>Dedoose</td>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
+ </tr>
+ <tr>
+      <td rowspan="1">Project Management</td>
+      <td>Asana</td>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+ </tr>
+  <tr>
+      <td rowspan="2">Webdesign and CMS</td>
+      <td>Wordpress</td>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
+ </tr>
+  <tr>
+    <td>HTML</td>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+  </tr>
+  <tr>
+      <td rowspan="">Learning Managment Systems (LMS)</td>
+      <td>Canvas</td>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+ </tr>
+<tr>
+      <td rowspan="2">Geographic Information System (GIS) </td>
+      <td>ArcGIS</td>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+ </tr>
+  <tr>
+    <td>QGIS</td>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+      <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
+  </tr>
 <table>
 
 
