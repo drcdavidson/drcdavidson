@@ -170,8 +170,8 @@ Team Development | Organizational Leadership & Management | Communications </p>
   This Tableau dashboard provides a visualization of the Commonwealth of Virginia's 2021 Elections for  Governor, Lieutenant Governor, and Attorney General Election. Data includes election results by county and precinct. Visualizations include both the electoral map and data tables. <br />
   **Status: Completed** :white_check_mark:
   
-- #### [European Map Showing EU & NATO Membership](https://public.tableau.com/views/EuropeanMapShowingEUNATOMembership/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)  
-  This Tableau dashboard provides a visual map of Europe showing membership in NATO, the European Union, highlighting Ukraine, and the boundary of the former Soviet Union. <br />
+- #### [European Map Showing EU & NATO Membership](https://public.tableau.com/views/EuropeanMapShowingEUNATOMembership/EUNATOMAP?:language=en-US&:display_count=n&:origin=viz_share_link)  
+  This Tableau dashboard provides a visual map of Europe showing membership in NATO, and the European Union, highlighting Ukraine, and the boundary of the former Soviet Union. <br />
   **Status: Completed**  :white_check_mark:
   
 - #### [Graduation Rates Project](https://github.com/drcdavidson/gradrates)
