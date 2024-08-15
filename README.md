@@ -21,7 +21,7 @@ I am a higher education professional, researcher, and policy analyst with over 1
 - **Higher Education Expertise:** Policy analysis, program assessment, institutional research, governance
 
 ---
-### <p align="center"> Technical Skills & Software Proficiencies </p>
+### <p align="center"> Technical Skills </p>
 
 **Legend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆☆ = Beginner &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★★☆☆ = Intermediate &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★★★☆ = Proficient &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★★★★ = Advanced
 
