@@ -4,21 +4,21 @@
 ## Welcome to My Profile & Repository of Projects!
 <a href="https://www.linkedin.com/in/drchrisdavidson/"><img height="50" align='right' src="https://raw.githubusercontent.com/drcdavidson/drcdavidson/master/Images/LI-In-Bug.png"></a>
 
-I am a researcher, policy analyst, content creator, and author with over 15 years of experience in higher education who is passionate about using data to solve problems and tell stories. 
-
-My areas of interest include 
-:classical_building: Postsecondary Education, 
-:ballot_box: Public Policy, 
-:scroll: Law, 
-:mag: Evaluation, and :computer: Research Methods.
+I am a higher education professional, researcher, and policy analyst with over 15 years of experience in higher education who is passionate about bridging research, policy, and practice to transform higher education.
 
 ---
 
 ### <p align="center"> Core Competencies </p>
-<p align="center">
-Quantitative & Qualitative Research Methods | Data Analysis | Data Visualizations | Dashboard & Database Creation <br>
-Tableau, Microsoft PowerBI, & R Studio | Law & Policy Analysis | Assessment & Evaluation | Strategic Planning Project Management | <be>
-Team Development | Organizational Leadership & Management | Communications </p>
+
+- **Research & Analysis:** Quantitative and qualitative methods, mixed-methods research designs, survey design, data analysis, law & policy analysis
+
+- **Data Management & Visualization:** Dashboard & database creation, data visualization
+
+- **Assessment & Planning:** Program evaluation, strategic planning, project management
+
+- **Leadership & Communication:** Team development, organizational leadership, stakeholder communication, public speaking, cross-functional collaboration
+
+- **Higher Education Expertise:** Policy analysis, program assessment, institutional research, governance
 
 ---
 ### <p align="center"> Technical Skills & Software Proficiencies </p>
