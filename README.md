@@ -23,141 +23,23 @@ I am a higher education professional, researcher, and policy analyst with over 1
 ---
 ### <p align="center"> Technical Skills & Software Proficiencies </p>
 
-<table>
-  <thead>
-    <tr class="header-row">
-      <th rowspan="2" class="first-column"><strong>Core Competencies</strong></th>
-      <th rowspan="2"><strong>Skills</strong></th>
-      <th rowspan="2"><strong>Software/Technology</strong></th>
-      <th colspan="4"><strong>Proficiency</strong></th>
-    </tr>
-    <tr>
-      <th>Beginner</th>
-      <th>Intermediate</th>
-      <th>Proficient</th>
-      <th>Advanced</th>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-    <td rowspan="3">Data Science & Visualizations</td>
-    <td>R and RStudio</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-  </tr>
-  <tr>
-    <td>Tableau</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-  </tr>
-    <tr>
-    <td>Microsoft PowerBI</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-  </tr>
-  <tr>
-    <td rowspan="3">Database and Data Managment</td>
-    <td>Airtable</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-  </tr>
-  <tr>
-    <td>SQL</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-  </tr>
-     <tr>
-    <td>Excel</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-  </tr>
-  <tr>
-    <td rowspan="1">Survey Research</td>
-    <td>Qualtrics</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-  </tr>
-  <tr>
-    <td rowspan="1">Qualitative Research</td>
-    <td>Dedoose</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-  </tr>
-  <tr>
-    <td rowspan="1">Project Management</td>
-    <td>Asana</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-  </tr>
-  <tr>
-    <td rowspan="3">Web Design and CMS</td>
-    <td>Wordpress</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-  </tr>
-  <tr>
-    <td>HTML</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-  </tr>
-  <tr>
-    <td>CSS</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-  </tr>
-    <tr>
-    <td rowspan="1">Email Marketing Campaigns</td>
-    <td>Emma by Marigold</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-  </tr>
-  <tr>
-    <td rowspan="1" class="white">Learning Managment Systems (LMS)</td>
-    <td>Canvas</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-  </tr>
-  <tr>
-    <td rowspan="1">Geographic Information System (GIS) </td>
-    <td>ArcGIS</td>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/BlueCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-    <th> <img src="https://github.com/drcdavidson/drcdavidson/blob/main/Images/WhiteCircle.png" width="20" height="20"> </th>
-  </tr> </tbody>
-</table>
+**Legend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★☆☆☆ = Beginner &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★★☆☆ = Intermediate &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★★★☆ = Proficient &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★★★★ = Advanced
 
 
+| Software                      | Level of Proficiency                                             |
+|-------------------------------|---------------------------------------------------------|
+| R & R Studio                  |  ★★★☆              |
+| Tableau                       |  ★★★★              |
+| Microsoft PowerBI             |   ★★★☆              |
+| PowerQuery                     |  ★★★☆        |
+| Qualtrics                     |  ★★★★               |
+| ArcGIS                        | ★★☆☆             |
+| Airtable & Relational Databases | ★★★★             |
+| SQL                           | ★★☆☆            |
+| SPSS                          |    ★★★☆         |
+| Dedoose/NVivo                  |  ★★★☆           |
+| Asana                         |  ★★★★             |
 
-    
 ---
 
 ### Data Science Projects & Tableau Dashboards
