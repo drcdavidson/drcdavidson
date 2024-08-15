@@ -26,7 +26,8 @@ I am a higher education professional, researcher, and policy analyst with over 1
 <table>
   <thead>
     <tr class="header-row">
-      <th rowspan="2" class="first-column"><strong>Skills</strong></th>
+      <th rowspan="2" class="first-column"><strong>Core Competencies</strong></th>
+      <th rowspan="2"><strong>Skills</strong></th>
       <th rowspan="2"><strong>Software/Technology</strong></th>
       <th colspan="4"><strong>Proficiency</strong></th>
     </tr>
