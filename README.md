@@ -49,13 +49,13 @@ I am a higher education professional, researcher, and policy analyst with over 1
   **Status: Completed** -->
 
   
-- #### [Virginia Statewide Elections 2021](https://public.tableau.com/views/VirginiaStatewideElections2021/VirginiasStatewideElection2021?:language=en-US&:display_count=n&:origin=viz_share_link)
+<!--- #### [Virginia Statewide Elections 2021](https://public.tableau.com/views/VirginiaStatewideElections2021/VirginiasStatewideElection2021?:language=en-US&:display_count=n&:origin=viz_share_link)
   This Tableau dashboard provides a visualization of the Commonwealth of Virginia's 2021 Elections for  Governor, Lieutenant Governor, and Attorney General Election. Data includes election results by county and precinct. Visualizations include both the electoral map and data tables. <br />
-  **Status: Completed** :white_check_mark:
+  **Status: Completed** :white_check_mark:-->
   
-- #### [European Map Showing EU & NATO Membership](https://public.tableau.com/views/EuropeanMapShowingEUNATOMembership/EUNATOMAP?:language=en-US&:display_count=n&:origin=viz_share_link)  
+<!--- #### [European Map Showing EU & NATO Membership](https://public.tableau.com/views/EuropeanMapShowingEUNATOMembership/EUNATOMAP?:language=en-US&:display_count=n&:origin=viz_share_link)  
   This Tableau dashboard provides a visual map of Europe showing membership in NATO, and the European Union, highlighting Ukraine, and the boundary of the former Soviet Union. <br />
-  **Status: Completed**  :white_check_mark:
+  **Status: Completed**  :white_check_mark:-->
   
 - #### [Graduation Rates Project](https://github.com/drcdavidson/gradrates)
   This repository includes the R Scripts and R Markdown file for the second of two final projects for the HarvardX Data Science: Capstone towards the Professional Certificate in Data Sciences via EdX. <br />
